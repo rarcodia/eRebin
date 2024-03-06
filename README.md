@@ -37,7 +37,7 @@ So a simple case in which you want to rebin data which is in a ~/data/input/ dir
 python3 Rebin_eROday.py -indir "~/data/input/" -names "list.txt" -outdir "~/data/output/"
 ```
 
-Where for conveniente, you ideally have listed the light curve names in a file "list.txt" on /input/, so you don't need to waste time in case you bulk downloaded tens of thousands of them.
+Where for convenience, you ideally have listed the light curve names in a file "list.txt" on /input/, so you don't need to waste time in case you bulk downloaded tens of thousands of them.
 
 ## Output
 
