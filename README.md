@@ -53,6 +53,8 @@ With '-which_rates "SRC"' you can save source-only count rates, with the caveat 
 
 In the output directory, there is a subdirectory called "Images" where you find the plotted rebinned light curves, one per energy range in the input light curve.
 
+The file test.zip contains an example with ~50 eRASS1 light curves in input and the rebinned output plus images.
+
 ## How to cite
 
 If you make use of this code, please link to this github repo and cite [this paper](https://ui.adsabs.harvard.edu/abs/2021Natur.592..704A/abstract) and [this too](https://ui.adsabs.harvard.edu/abs/2024arXiv240117275A/abstract).
