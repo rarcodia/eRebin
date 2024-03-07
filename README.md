@@ -55,6 +55,12 @@ In the output directory, there is a subdirectory called "Images" where you find 
 
 The file test.zip contains an example with ~50 eRASS1 light curves in input and the rebinned output plus images.
 
+## Contributors and related software
+
+Contributors include: Johannes Buchner, David Bogensberger
+
+If you are interested in tools for studying variability in eROSITA light curves, check [Bexvar](https://github.com/JohannesBuchner/bexvar).
+
 ## How to cite
 
 If you make use of this code, please link to this github repo and cite [this paper](https://ui.adsabs.harvard.edu/abs/2021Natur.592..704A/abstract) and [this too](https://ui.adsabs.harvard.edu/abs/2024arXiv240117275A/abstract) for the rebinning of eROSITA light curves, and [this paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...661A..18B/abstract) for the count rate estimates.
