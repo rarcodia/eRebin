@@ -61,8 +61,8 @@ Contributors include: Johannes Buchner, David Bogensberger
 
 If you are interested in tools for studying variability in eROSITA light curves, check [Bexvar](https://github.com/JohannesBuchner/bexvar).
 
+Contributors are welcome. Contact me here or at rarcodia@mit.edu for questions/bugs/changes!
+
 ## How to cite
 
 If you make use of this code, please link to this github repo and cite [this paper](https://ui.adsabs.harvard.edu/abs/2021Natur.592..704A/abstract) and [this too](https://ui.adsabs.harvard.edu/abs/2024arXiv240117275A/abstract) for the rebinning of eROSITA light curves, and [this paper](https://ui.adsabs.harvard.edu/abs/2022A%26A...661A..18B/abstract) for the count rate estimates.
-
-Contact me here or at rarcodia@mit.edu for questions/bugs/changes!
